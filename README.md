@@ -1,1 +1,2 @@
-# dataprotection_csharp_lite
+# Data Protection Lite (csharp)
+Simple program, created by <b>decko2</b> helps protect your sensitive data from hackers, etc...
